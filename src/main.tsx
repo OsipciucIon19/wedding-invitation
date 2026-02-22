@@ -7,6 +7,7 @@ console.log('test-deploy', import.meta.env);
 
 createRoot(document.getElementById('root')!).render(
     <StrictMode>
-        <App />
+        test
+        {/*<App />*/}
     </StrictMode>
 );
